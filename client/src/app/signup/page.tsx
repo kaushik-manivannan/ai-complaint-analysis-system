@@ -133,7 +133,7 @@ export default function Signup() {
       </div>
       <div className="hidden lg:block bg-muted">
         <Image
-          src="/imageSignup.jpg"
+          src="/imageSignup.webp"
           alt="Signup Image"
           width="1920"
           height="1080"

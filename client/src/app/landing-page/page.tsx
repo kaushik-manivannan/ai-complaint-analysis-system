@@ -16,7 +16,7 @@ export default function LandingPage() {
       <section className="relative h-[500px] text-white flex items-center justify-center">
         <div className="absolute inset-0 z-0">
           <Image
-            src="/imageLanding.jpg"
+            src="/imageLanding.webp"
             alt="Hero Background"
             fill
             className="object-cover"
@@ -41,7 +41,7 @@ export default function LandingPage() {
           <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-8">
             <div className="relative bg-gray-200 rounded-lg overflow-hidden shadow-lg transition-transform transform hover:scale-105 h-96">
               <Image
-                src="/fastFeature.jpg"
+                src="/fastFeature.webp"
                 alt="Fast Analysis"
                 fill
                 className="w-full h-full object-cover"
@@ -56,7 +56,7 @@ export default function LandingPage() {
 
             <div className="relative bg-gray-200 rounded-lg overflow-hidden shadow-lg transition-transform transform hover:scale-105 h-96">
               <Image
-                src="/aiFeature.jpg"
+                src="/aiFeature.webp"
                 alt="AI-Powered Insights"
                 fill
                 className="w-full h-full object-cover"
@@ -71,7 +71,7 @@ export default function LandingPage() {
 
             <div className="relative bg-gray-200 rounded-lg overflow-hidden shadow-lg transition-transform transform hover:scale-105 h-96">
               <Image
-                src="/uiFeature.jpg"
+                src="/uiFeature.webp"
                 alt="User-Friendly Interface"
                 fill
                 className="w-full h-full object-cover"

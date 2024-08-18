@@ -89,7 +89,7 @@ export default function Login() {
       </div>
       <div className="hidden lg:block bg-muted">
         <Image
-          src="/imageLogin.jpg"
+          src="/imageLogin.webp"
           alt="Login Image"
           width="1920"
           height="1080"
